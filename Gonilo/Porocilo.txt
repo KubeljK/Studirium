@@ -1,0 +1,195 @@
+______________________________________
+|To je porocilo za Strojne elemente2!|
+______________________________________
+
+Vhodni podatki so naslednji:
+   P1 =  7500.0 W
+   n1 =  1455.0 min^-1
+   n3 =   100.0 min^-1
+  m12 =     2.5 mm
+  m34 =     4.5 mm
+   z1 =    21.0  
+   z3 =    21.0  
+beta1 =     0.0 °
+beta2 =     0.0 °
+
+Prestave:
+-------------------------------------------
+Teoretièna skupna prestava isk = 14.55.
+Teoretièna prestava i12 = 4.56.
+Teoretièna prestava i34 = 3.19.
+
+
+Število zob:
+-------------------------------------------
+z1 = 21
+z2 = 96
+z3 = 21
+z4 = 67
+
+
+Dejanske prestave:
+-------------------------------------------
+i12,dej = 4.57
+i34,dej = 3.19
+is,dej = 14.59
+
+
+Dejanske vrtilne hitrosti:
+-------------------------------------------
+omega1 = 152.37 rad/s
+omega2 = 33.33 rad/s
+omega3 = 10.45 rad/s
+
+
+Moè na delovnem stroju:
+-------------------------------------------
+Pds = 6576.51 W
+
+
+Momenti na gredeh:
+-------------------------------------------
+T1 = 49.22 Nm
+T2 = 209.66 Nm
+T3 = 629.52 Nm
+
+
+Minimalni premeri gredi:
+-------------------------------------------
+d1 = 30.00 mm
+d2 = 45.00 mm
+d3 = 60.00 mm
+
+
+Geometrija zobnikov:
+-------------------------------------------
+Zobnik 1:
+kinematski premer d = 52.5 mm
+temenski premer da = 57.5 mm
+korenski premer df = 46.2 mm
+
+Zobnik 2:
+kinematski premer d = 240.0 mm
+temenski premer da = 245.0 mm
+korenski premer df = 233.8 mm
+
+Zobnik 3:
+kinematski premer d = 94.5 mm
+temenski premer da = 103.5 mm
+korenski premer df = 83.2 mm
+
+Zobnik 4:
+kinematski premer d = 301.5 mm
+temenski premer da = 310.5 mm
+korenski premer df = 290.2 mm
+
+Medosna razdalja med gredjo 1 in 2:
+a12 = 146.2 mm
+Medosna razdalja med gredjo 2 in 3:
+a23 = 198.0 mm
+
+Širina zobnikov:
+b12 = 50.0 mm
+b34 = 90.0 mm
+
+Statika gredi 2:
+-------------------------------------------
+Ft2 = 1747.15 mm
+Ft3 = 4437.21 mm
+Fr2 = 635.91 mm
+Fr3 = 1615.01 mm
+
+X-Y ravnina
+Ay = 40.76 N
+By = 1019.86 N
+Mzmax = 43.85 Nm
+X-Z ravnina
+Az = 2185.90 N
+Bz = 3998.46 N
+Mymax = 171.93 Nm
+Skupne obremenitve 2. gredi
+A = 2186.28 N
+B = 4126.48 N
+Mmax = 177.44 Nm
+
+Ležaji na gredi 2:
+-------------------------------------------
+Statièna nosilnost
+Ležaj v podpori A:
+P0 = 2186.28 N
+S0 = 6.678
+S0min = 1.0
+
+Ležaj v podpori B:
+P0 = 4126.48 N
+S0 = 3.877
+S0min = 1.0
+
+Imenska doba trajanja
+Ležaj v podpori A:
+P = 2186.28 N
+L10 = 1032905296.691
+L10h = 54087.7 h
+
+Ležaj v podpori B:
+P = 4126.48 N
+L10 = 170910240.066
+L10h = 8949.6 h
+
+Razširjen izraèun dobe trajanja
+Ležaj v podpori A:
+Lna = 9800544610.593
+Lna_h = 513201.485 h
+
+Ležaj v podpori B:
+Lna = 537106475.634
+Lna_h = 28125.360 h
+
+
+Kritièni prerez pod zobnikoma na gredi 2:
+-------------------------------------------
+Levi zobnik:
+sigma_fmax = 72.17 MPa
+tau_tmax = 42.97 MPa
+Primerjalna___sigma_p = 105.85 MPa
+Dopustna___sigma_dop = 73.15 MPa
+
+Desni zobnik:
+sigma_fmax = 93.09 MPa
+tau_tmax = 42.97 MPa
+Primerjalna___sigma_p = 121.08 MPa
+Dopustna___sigma_dop = 73.15 MPa
+
+Kritièni prerez stopnica na gredi 2:
+-------------------------------------------
+sigma_fmax = 20.40 MPa
+tau_tmax = 10.77 MPa
+Primerjalna___sigma_p = 28.16 MPa
+Dopustna___sigma_dop = 69.07 MPa
+
+Povesi in zasuki gredi 2:
+-------------------------------------------
+maksimalni poves fmax = 0.0362 mm
+poves pod zobnikom 2 = 0.0326 mm
+poves pod zobnikom 3 = 0.0259 mm
+zasuk v ležaju A = 0.000066
+zasuk v ležaju B = 0.000069
+
+Korenska nosilnost:
+-------------------------------------------
+Med prvim in drugim zobnikom:
+Upogibna napetost v korenu zoba____ sigma_F = 61.37 MPa
+Dopustna napetost____ sigma_FP = 312.50 MPa
+Med tretjim in èetrtim zobnikom:
+Upogibna napetost v korenu zoba____ sigma_F = 25.47 MPa
+Dopustna napetost____ sigma_FP = 312.50 MPa
+
+
+Boèna nosilnost:
+-------------------------------------------
+Med prvim in drugim zobnikom:
+sigma_H = 524.08 MPa
+sigma_HP = 598.00 MPa
+Med tretjim in èetrtim zobnikom:
+sigma_H = 464.95 MPa
+sigma_HP = 598.00 MPa
